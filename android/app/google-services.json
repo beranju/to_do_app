@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1030242914710",
+    "project_id": "simple-todo-beran",
+    "storage_bucket": "simple-todo-beran.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030242914710:android:a0294a31ad2d8ea7ddcdb7",
+        "android_client_info": {
+          "package_name": "com.example.to_do_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030242914710-usfb09lv4muumidbof6pqe4rjbdoc8ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAePokZH7BD60cOTsS2EvHzQYoJBx2vTFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030242914710-usfb09lv4muumidbof6pqe4rjbdoc8ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
